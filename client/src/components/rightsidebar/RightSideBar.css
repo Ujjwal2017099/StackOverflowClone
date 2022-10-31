@@ -1,0 +1,26 @@
+.right-sidebar{
+     float: right;
+     width: 300px;
+     margin: 72px 20px 15px 24px;
+     font-size: 15px;
+}
+
+.right-sidebar-div-1 {
+     background-color: #faefc6;
+     box-sizing: border-box;
+     box-shadow: 0px 0px 5px 5px #c4bdbd;
+}
+.right-sidebar-div-1 h4{
+     padding-top: 10px;
+     padding-left: 20px;
+}
+.right-sidebar-div-2{
+     display: flex;
+     align-items: center;
+     background-color: #fdf7e2;
+}
+
+.right-sidebar-div-2 img{
+     margin-right: 15px;
+     padding-left: 10px;
+}

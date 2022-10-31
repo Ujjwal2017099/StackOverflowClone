@@ -1,0 +1,49 @@
+.ask-question{
+     padding-top: 50px;
+     display: flex;
+     flex-direction: column;
+     /* width: 100vw; */
+     align-items: center;
+     background-color: #E6E6EA;
+}
+
+.ask-form-container{
+     width: 95%;
+     background-color: white;
+     padding-left: 10px;
+     padding-bottom: 5px;
+     margin-bottom: 10px;
+     /* display: flex;
+     flex-direction: column;
+     align-items: center; */
+}
+
+#ask-ques-title {
+     padding: 5px 10px;
+     width: 95%;
+     font-size: 15px;
+     font-weight: bolder;
+}
+
+#ask-ques-body{
+     padding: 5px 10px;
+     width: 95%;
+     height: 150px;
+}
+
+#ask-ques-tags{
+     padding: 5px ;
+     width: 95%;
+     font-size: 15px;
+     /* font-weight: bolder; */
+}
+
+#submit{
+     background-color: #B2FFD6;
+     border: none;
+     padding: 9px 6px;
+     margin: 5px 0px;
+     margin-top: 10px;
+     cursor: pointer;
+     border-radius: 5px;
+}

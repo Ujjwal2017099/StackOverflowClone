@@ -1,0 +1,26 @@
+.left-sidebar{
+     background-color: #E2E2E2;
+     width: 200px;
+     /* position: fixed; */
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+}
+.globe{
+     display: flex;
+     align-items: center;
+}
+
+.globe img{
+     height: 15px;
+     width: 15px;
+     margin-right: 5px;
+}
+
+.side-nav-links{
+     color: black;
+}
+.active{
+     font-weight: bolder;
+}
